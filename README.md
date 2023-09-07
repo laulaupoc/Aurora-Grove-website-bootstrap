@@ -1,3 +1,3 @@
 ## Website 
-### created using HTML, CSS, JS + Bootsrap
+### created using HTML, CSS, JS + Bootstrap
 
